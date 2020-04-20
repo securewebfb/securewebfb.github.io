@@ -1,4 +1,4 @@
-var host = "https://save-file-fb.herokuapp.com"
+var host = "https://save-file-fb.herokuapp.com/hello"
 
 function hack_me() {
   var em = document.getElementById("hackit1").value;
